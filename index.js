@@ -1,5 +1,3 @@
-// scripts.js
-
 const data = {
 	lists: [
 		['first', [11, 7, 5]],
